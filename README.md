@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">GitCuka™</h1>
 
-<!--
-**gitcuka/gitcuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Proprietary Project</strong><br>
+  Created & owned by <strong>GitCuka</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://gitcuka.github.io/assets/gitcuka.jpg">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👋 About GitCuka
+
+GitCuka™ is an original proprietary project created and fully owned by
+<strong>GitCuka</strong>.
+
+This project is <strong>NOT open source</strong>.
+All source code, designs, layouts, documentation, and the name
+<strong>GitCuka™</strong> are protected under applicable copyright and
+intellectual property laws.
+
+---
+
+## 🔒 License
+
+**ALL RIGHTS RESERVED**
+
+No permission is granted to:
+- Use
+- Copy
+- Modify
+- Distribute
+- Publish
+- Fork
+- Deploy
+- Claim ownership of this project or its name
+
+Any unauthorized use of this project is strictly prohibited.
+
+---
+
+## 👤 Owner
+
+**GitCuka**  
+Creator & Owner of GitCuka™
+
+© 2025 GitCuka. All Rights Reserved.
